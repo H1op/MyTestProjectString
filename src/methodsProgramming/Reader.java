@@ -4,7 +4,6 @@ import java.util.Scanner;
 
 public class Reader {
     private String name;
-    private String check;
     Scanner scan = new Scanner(System.in);
 
     public String getName() {
