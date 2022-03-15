@@ -8,7 +8,7 @@ public class StrMethods {
         String fromChars = new String(new char[]{'H', 'e', 'l', 'l', 'o'});
         System.out.println(string + " " + empty + " " + newEmptyString + " " + fromChars);
 
-        
+
         if (!fromChars.startsWith("Hello")) {
             System.out.println("None");
         } else {
